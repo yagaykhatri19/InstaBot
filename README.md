@@ -1,2 +1,2 @@
 # InstaBot
-Developed an Instagram Bot using Selenium and Python
+In my Instagram Bot project, I developed an automated solution using Selenium to assist a friend in growing their Food Blogging handle on Instagram. The objective was to streamline the process of following and engaging with potential followers on the platform to increase visibility and audience. By analyzing and interacting with other food-related pages, the bot aimed to attract like-minded individuals and promote organic growth for the blog. This project showcased my ability to apply automation for social media marketing and audience expansion, which can be a valuable skill in today's digital age.
